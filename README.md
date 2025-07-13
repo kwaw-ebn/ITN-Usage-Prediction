@@ -49,7 +49,7 @@ Edit
 - `target_label_encoder.pkl`: Encodes predicted labels
 - `images/logo.JPG`: Custom branding/logo
 - `history/`: Folder to store and track uploaded prediction results
-- `research_report.pdf`: 📚 Your full academic/project research report *(add this)*
+- `research_report.pdf`: 📚 
 
 ---
 
